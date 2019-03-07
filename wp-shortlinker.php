@@ -2,11 +2,11 @@
 /**
  *
  * Plugin Name: WP Shortlinker
- * Plugin URI:  https://www.binaryturf.com
+ * Plugin URI:  https://www.converticacommerce.com
  * Description: WP Shortlinker changes the internal links to use shortlinks instead of permalinks inside the WordPress editor.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Shivanand Sharma
- * Author URI:  https://www.binaryturf.com
+ * Author URI:  https://www.converticacommerce.com
  * Text Domain: shortlinker
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt

@@ -1,10 +1,10 @@
 === WP Shortlinker ===
-Contributors: varun21
-Donate Link: https://www.binaryturf.com?item_name=Donation%20for%20WP%20Shortlinker%20Plugin&cmd=_donations&currency_code=USD&lc=US
+Contributors: varun21, ruchika_wp
+Donate Link: https://www.converticacommerce.com?item_name=Donation%20for%20WP%20Shortlinker%20Plugin&cmd=_donations&currency_code=USD&lc=US
 Tags: shortlinks, permalink, permalinks, 404, fourohfour, not found, page not found, internal links
 Requires at least: 3.6
-Tested up to: 4.6
-Stable tag: 1.0.0
+Tested up to: 5.1
+Stable tag: 1.0.1
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -18,7 +18,7 @@ Once you have installed and activated the plugin, you can go ahead and try inser
 
 == Installation ==
 
-Log in to your WordPress dashboard, navigate to the Plugins menu and click Add New. In the search field type **WP Shortlinker** and click *Search Plugins*. Once you’ve found the plugin you can install it by simply clicking "Install Now".
+Log in to your WordPress dashboard, navigate to the Plugins menu and click Add New. In the search field type **WP Shortlinker** and click *Search Plugins*. Once youï¿½ve found the plugin you can install it by simply clicking "Install Now".
 
 Or you can follow the steps given below:
 
